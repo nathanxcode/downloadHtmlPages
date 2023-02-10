@@ -3,10 +3,9 @@
 ## About
 Just a simple html page downloader
 
-## Instalation
+## Installation
 
-Follow the ruby guide and install ruby:
-	[Ruby Download](https://www.ruby-lang.org/en/downloads/)
+Follow the ruby installation guide:[Ruby Download](https://www.ruby-lang.org/en/downloads/)
 
 
 
