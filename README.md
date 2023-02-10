@@ -10,7 +10,7 @@ Just a simple html page downloader
 
 2) Donwload the directory:
 	```bash
-	git clone https://github.com/nathanxcode/downloadHtmlPages
+	git clone https://github.com/nathanxcode/htmlPageDownloader
 	```
 		
 3) Now just open the rb file:
